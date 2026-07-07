@@ -1,0 +1,4615 @@
+{
+  "total_listings": 600,
+  "deal_count": 84,
+  "top_deal_count": 20,
+  "deal_rate_pct": 14.0,
+  "avg_discount_pct": 26.2,
+  "max_discount_pct": 65.0,
+  "avg_saving_thb": 81648,
+  "max_saving_thb": 350500,
+  "overall_median_price": 254500,
+  "car_median_price": 349500,
+  "moto_median_price": 42000,
+  "threshold_pct": 15.0,
+  "scatter_data": [
+    {
+      "vehicle_age": 6,
+      "price": 368000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 43000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Aerox 155",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 1038000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 300000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": -55.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 26000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Aerox 155",
+      "discount_pct": 29.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 514000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": 6.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 429000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 388000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 172000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 385000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 889000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 540000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 491000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": -20.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 305000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 292000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": 26.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 53000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": 10.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 35000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": 7.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 78000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 691000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": 22.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 389000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 378000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 303000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 34000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": 13.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 493000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 921000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 338000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 235000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": 1.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 311000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 587000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 63000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 362000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 238000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": -0.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 327000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": 26.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 906000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 17.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 439000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 365000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 41000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 242000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": 29.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 880000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": 1.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 332000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 14000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Wave 110",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 28000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": 10.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 410000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": 8.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 258000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 316000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": 11.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 120000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": -13.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 364000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 549000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": 1.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 268000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": 12.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 247000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 186000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 64000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": -21.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 347000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": 1.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 367000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 1039000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 361000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 238000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": 33.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 48000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 286000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Corolla",
+      "discount_pct": 26.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 413000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 399000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 441000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 309000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 41000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": 23.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 426000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": 27.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 337000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": 6.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 168000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 54000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Ninja 300",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 250000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 857000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 14000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Wave 110",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 426000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 31000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": 21.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 288000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Corolla",
+      "discount_pct": -0.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 891000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": -0.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 454000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": -0.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 412000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 1116000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 240000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": -11.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 40000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 537000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 490000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": 20.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 93000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": 12.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 366000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 38000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 353000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 486000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": 10.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 209000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 46000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Ninja 300",
+      "discount_pct": 17.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 488000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 437000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": -11.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 318000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 16000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Wave 110",
+      "discount_pct": -14.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 603000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": -12.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 241000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 62000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 320000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": 11.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 235000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": 1.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 225000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 202000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": 6.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 351000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 53000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": 12.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 56000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Ninja 300",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 123000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": 26.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 47000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": 11.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 1129000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 386000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": 6.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 326000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 324000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 812000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 30.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 164000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": 24.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 43000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": 27.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 862000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 399000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": -0.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 298000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": 17.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 206000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 1212000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 36000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": 16.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 570000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 31000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": 23.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 348000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 363000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 42000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": -15.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 164000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Note",
+      "discount_pct": 10.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 438000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 258000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Corolla",
+      "discount_pct": 50.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 384000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 1089000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 15000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": 29.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 192000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 453000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 76000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Ninja 300",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 230000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": 27.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 198000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 495000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 313000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 18000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": 14.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 14000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Wave 110",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 218000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": 12.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 22000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 136000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Note",
+      "discount_pct": 26.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 59000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Ninja 300",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 49000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 203000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 381000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 254000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 304000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 113000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Note",
+      "discount_pct": 39.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 53000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": 10.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 243000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 445000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 351000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 285000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": 7.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 32000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": 40.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 212000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 370000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": 7.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 31000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 212000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 54000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 358000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 407000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 27000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": 28.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 1026000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 6.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 434000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 197000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Note",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 43000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Aerox 155",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 1039000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 56000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 81000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": 24.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 872000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 494000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": -11.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 567000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 442000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 621000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": -12.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 612000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": 1.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 183000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Note",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 14000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Wave 110",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 222000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 19000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": 10.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 197000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 59000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": -11.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 558000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 32000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": 12.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 163000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": 10.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 168000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": 28.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 58000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 917000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 339000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": 21.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 20000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 356000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 39000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": 26.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 97000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": 8.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 359000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 895000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 18.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 1019000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 7.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 367000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": 33.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 196000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": -11.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 195000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 578000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 37000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 44000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Aerox 155",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 322000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 280000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Corolla",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 377000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 295000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": 31.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 201000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": 1.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 41000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 1144000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 442000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 427000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 223000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 584000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 422000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": 23.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 590000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": -24.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 1198000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 1100000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 39000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 47000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": 16.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 595000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": -11.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 407000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 236000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 278000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": 8.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 364000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": 8.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 347000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 711000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 1286000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -11.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 90000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": 15.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 106000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 219000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 187000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 181000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": -0.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 372000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 30000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": 33.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 1002000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 8.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 53000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 194000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Note",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 384000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 121000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": 27.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 229000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 603000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": -12.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 270000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": 39.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 45000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Ninja 300",
+      "discount_pct": 19.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 90000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": -12.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 255000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 60000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 318000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 427000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 471000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 37000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": 1.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 196000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 584000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 38000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 476000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": -16.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 517000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 346000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": 8.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 395000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 470000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 48000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 84000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Ninja 300",
+      "discount_pct": -14.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 296000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 44000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Aerox 155",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 355000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 43000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 408000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 303000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Corolla",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 48000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 571000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 370000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": 7.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 540000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 194000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 15000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Wave 110",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 1329000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -14.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 201000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 189000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Note",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 331000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 36000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": 8.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 38000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 217000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": 6.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 194000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 315000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 1121000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 19000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": 10.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 1092000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -0.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 252000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": 30.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 309000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Corolla",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 212000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 464000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 23000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 63000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": -19.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 165000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 60000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Ninja 300",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 41000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 321000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Corolla",
+      "discount_pct": -12.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 186000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Note",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 346000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 384000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 43000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 217000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 38000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 134000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": 20.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 575000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 237000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 164000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": 7.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 297000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 87000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 176000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 64000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": -21.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 82000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 40000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 616000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 202000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 170000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": 6.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 1198000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 401000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 343000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 357000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": 19.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 322000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 31000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 302000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Corolla",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 25000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": 19.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 196000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 130000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": 26.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 23000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 324000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 25000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": -19.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 205000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 33000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": 38.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 321000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 415000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 358000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 336000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": 1.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 214000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 337000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 470000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 346000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 358000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 44000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 390000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 109000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 38000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 465000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 437000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 199000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 438000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 415000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": 8.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 61000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Ninja 300",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 156000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": 26.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 45000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Aerox 155",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 14000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Wave 110",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 18000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": 14.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 261000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 44000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 359000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 39000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 55000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 402000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 1113000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 44000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Nmax 155",
+      "discount_pct": 17.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 413000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": 24.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 335000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 181000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 1119000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 264000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": 13.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 15000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Wave 110",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 216000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 26000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Aerox 155",
+      "discount_pct": 29.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 70000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": -19.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 617000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": -0.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 409000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 482000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 370000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 335000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": 6.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 226000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 337000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 292000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": 7.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 319000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": 25.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 175000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 537000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 40000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 378000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 49000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": 12.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 164000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 52000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": 13.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 630000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 166000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 321000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 932000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 358000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 28000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": 23.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 137000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": 24.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 321000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 59000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 22000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 341000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 569000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 41000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": -12.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 953000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 169000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": 4.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 326000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": 17.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 279000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": 22.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 272000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": 24.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 496000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": 8.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 186000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": -12.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 21000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": 65.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 60000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Mt-15",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 53000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 488000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 40000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": 1.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 170000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": 31.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 1188000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 228000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 232000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 106000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 471000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 37000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 463000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 65000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": -23.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 242000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 414000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 1167000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 537000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": 2.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 181000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": 11.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 29000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": 6.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 48000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 961000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": -8.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 32000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 401000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 180000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 60000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 162000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 38000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Aerox 155",
+      "discount_pct": 12.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 214000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": 39.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 428000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": 6.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 346000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": 27.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 604000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": 15.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 226000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ecosport",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 228000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 28000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": 10.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 340000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 164000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": 16.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 361000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": -1.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 739000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 374000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 194000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 188000.0,
+      "vehicle_type": "Car",
+      "make": "Suzuki",
+      "model": "Swift",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 385000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": 29.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 28000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Click 150",
+      "discount_pct": 53.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 492000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": -11.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 319000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Corolla",
+      "discount_pct": 17.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 475000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": -12.0
+    },
+    {
+      "vehicle_age": 14,
+      "price": 202000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 278000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Chr",
+      "discount_pct": 32.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 627000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 286000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Corolla",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 583000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Pajero",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 35000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": -13.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 34000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 222000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Almera",
+      "discount_pct": -9.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 281000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": 34.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 36000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Aerox 155",
+      "discount_pct": 1.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 384000.0,
+      "vehicle_type": "Car",
+      "make": "Mitsubishi",
+      "model": "Triton",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 66000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": -18.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 241000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": -12.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 476000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Cr-V",
+      "discount_pct": -11.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 415000.0,
+      "vehicle_type": "Car",
+      "make": "Ford",
+      "model": "Ranger",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 187000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 28000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Suzuki",
+      "model": "Gsx-S150",
+      "discount_pct": 10.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 339000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": -0.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 820000.0,
+      "vehicle_type": "Car",
+      "make": "Mercedes-Benz",
+      "model": "C-Class",
+      "discount_pct": 25.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 127000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": -20.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 634000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 65000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Ninja 300",
+      "discount_pct": 12.0
+    },
+    {
+      "vehicle_age": 10,
+      "price": 202000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": 13.0
+    },
+    {
+      "vehicle_age": 12,
+      "price": 361000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 69000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": 14.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 341000.0,
+      "vehicle_type": "Car",
+      "make": "Nissan",
+      "model": "Navara",
+      "discount_pct": 3.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 184000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": -2.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 39000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "Aerox 155",
+      "discount_pct": -7.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 70000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": -32.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 374000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 53000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Yamaha",
+      "model": "R15",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 118000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Kawasaki",
+      "model": "Z400",
+      "discount_pct": -11.0
+    },
+    {
+      "vehicle_age": 4,
+      "price": 740000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Fortuner",
+      "discount_pct": -5.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 480000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Hilux Revo",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 230000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "3",
+      "discount_pct": 25.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 338000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Civic",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 11,
+      "price": 596000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Camry",
+      "discount_pct": -10.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 43000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 199000.0,
+      "vehicle_type": "Car",
+      "make": "Toyota",
+      "model": "Yaris",
+      "discount_pct": 8.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 42000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": -4.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 947000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 13,
+      "price": 165000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Jazz",
+      "discount_pct": 9.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 361000.0,
+      "vehicle_type": "Car",
+      "make": "Isuzu",
+      "model": "D-Max",
+      "discount_pct": -0.0
+    },
+    {
+      "vehicle_age": 6,
+      "price": 247000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "City",
+      "discount_pct": -6.0
+    },
+    {
+      "vehicle_age": 8,
+      "price": 913000.0,
+      "vehicle_type": "Car",
+      "make": "Bmw",
+      "model": "Series 3",
+      "discount_pct": -3.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 445000.0,
+      "vehicle_type": "Car",
+      "make": "Mazda",
+      "model": "Cx-5",
+      "discount_pct": 0.0
+    },
+    {
+      "vehicle_age": 7,
+      "price": 31000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": 23.0
+    },
+    {
+      "vehicle_age": 5,
+      "price": 355000.0,
+      "vehicle_type": "Car",
+      "make": "Honda",
+      "model": "Hr-V",
+      "discount_pct": 5.0
+    },
+    {
+      "vehicle_age": 3,
+      "price": 67000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Pcx 160",
+      "discount_pct": -20.0
+    },
+    {
+      "vehicle_age": 9,
+      "price": 39000.0,
+      "vehicle_type": "Motorcycle",
+      "make": "Honda",
+      "model": "Cbr 150R",
+      "discount_pct": 4.0
+    }
+  ],
+  "province_data": [
+    {
+      "province": "Khon Kaen",
+      "count": 46,
+      "median": 294500.0
+    },
+    {
+      "province": "Nakhon Ratchasima",
+      "count": 38,
+      "median": 216500.0
+    },
+    {
+      "province": "Samut Prakan",
+      "count": 35,
+      "median": 296000.0
+    },
+    {
+      "province": "Phuket",
+      "count": 34,
+      "median": 248500.0
+    },
+    {
+      "province": "Rayong",
+      "count": 33,
+      "median": 311000.0
+    },
+    {
+      "province": "Saraburi",
+      "count": 32,
+      "median": 307500.0
+    },
+    {
+      "province": "Nakhon Sawan",
+      "count": 32,
+      "median": 310500.0
+    },
+    {
+      "province": "Chonburi",
+      "count": 31,
+      "median": 189000.0
+    },
+    {
+      "province": "Udon Thani",
+      "count": 31,
+      "median": 361000.0
+    },
+    {
+      "province": "Lampang",
+      "count": 30,
+      "median": 249500.0
+    },
+    {
+      "province": "Chiang Mai",
+      "count": 29,
+      "median": 218000.0
+    },
+    {
+      "province": "Chiang Rai",
+      "count": 29,
+      "median": 164000.0
+    },
+    {
+      "province": "Hat Yai (Songkhla)",
+      "count": 29,
+      "median": 237000.0
+    },
+    {
+      "province": "Krabi",
+      "count": 28,
+      "median": 218000.0
+    },
+    {
+      "province": "Prachuap Khiri Khan",
+      "count": 27,
+      "median": 201000.0
+    }
+  ],
+  "depreciation_data": [
+    {
+      "make": "Bmw",
+      "vehicle_age": 5,
+      "median_price": 947000.0
+    },
+    {
+      "make": "Bmw",
+      "vehicle_age": 6,
+      "median_price": 907500.0
+    },
+    {
+      "make": "Bmw",
+      "vehicle_age": 7,
+      "median_price": 961000.0
+    },
+    {
+      "make": "Bmw",
+      "vehicle_age": 8,
+      "median_price": 902000.0
+    },
+    {
+      "make": "Bmw",
+      "vehicle_age": 9,
+      "median_price": 872000.0
+    },
+    {
+      "make": "Bmw",
+      "vehicle_age": 10,
+      "median_price": 884500.0
+    },
+    {
+      "make": "Bmw",
+      "vehicle_age": 11,
+      "median_price": 908000.0
+    },
+    {
+      "make": "Bmw",
+      "vehicle_age": 12,
+      "median_price": 921000.0
+    },
+    {
+      "make": "Ford",
+      "vehicle_age": 5,
+      "median_price": 401000.0
+    },
+    {
+      "make": "Ford",
+      "vehicle_age": 7,
+      "median_price": 316500.0
+    },
+    {
+      "make": "Ford",
+      "vehicle_age": 9,
+      "median_price": 311000.0
+    },
+    {
+      "make": "Ford",
+      "vehicle_age": 10,
+      "median_price": 395000.0
+    },
+    {
+      "make": "Ford",
+      "vehicle_age": 11,
+      "median_price": 261000.0
+    },
+    {
+      "make": "Ford",
+      "vehicle_age": 12,
+      "median_price": 240000.0
+    },
+    {
+      "make": "Ford",
+      "vehicle_age": 13,
+      "median_price": 235000.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 3,
+      "median_price": 63000.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 4,
+      "median_price": 53000.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 5,
+      "median_price": 356500.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 6,
+      "median_price": 218500.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 7,
+      "median_price": 104000.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 8,
+      "median_price": 164000.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 9,
+      "median_price": 177500.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 10,
+      "median_price": 202000.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 11,
+      "median_price": 260500.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 12,
+      "median_price": 193000.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 13,
+      "median_price": 193000.0
+    },
+    {
+      "make": "Honda",
+      "vehicle_age": 14,
+      "median_price": 15500.0
+    },
+    {
+      "make": "Isuzu",
+      "vehicle_age": 6,
+      "median_price": 361000.0
+    },
+    {
+      "make": "Isuzu",
+      "vehicle_age": 8,
+      "median_price": 298000.0
+    },
+    {
+      "make": "Isuzu",
+      "vehicle_age": 10,
+      "median_price": 365000.0
+    },
+    {
+      "make": "Isuzu",
+      "vehicle_age": 11,
+      "median_price": 343000.0
+    },
+    {
+      "make": "Isuzu",
+      "vehicle_age": 12,
+      "median_price": 390000.0
+    },
+    {
+      "make": "Isuzu",
+      "vehicle_age": 13,
+      "median_price": 377000.0
+    },
+    {
+      "make": "Kawasaki",
+      "vehicle_age": 3,
+      "median_price": 120000.0
+    },
+    {
+      "make": "Kawasaki",
+      "vehicle_age": 4,
+      "median_price": 104000.0
+    },
+    {
+      "make": "Kawasaki",
+      "vehicle_age": 5,
+      "median_price": 87000.0
+    },
+    {
+      "make": "Kawasaki",
+      "vehicle_age": 6,
+      "median_price": 69000.0
+    },
+    {
+      "make": "Kawasaki",
+      "vehicle_age": 7,
+      "median_price": 87000.0
+    },
+    {
+      "make": "Kawasaki",
+      "vehicle_age": 8,
+      "median_price": 59000.0
+    },
+    {
+      "make": "Kawasaki",
+      "vehicle_age": 9,
+      "median_price": 54000.0
+    },
+    {
+      "make": "Mazda",
+      "vehicle_age": 4,
+      "median_price": 488000.0
+    },
+    {
+      "make": "Mazda",
+      "vehicle_age": 5,
+      "median_price": 465000.0
+    },
+    {
+      "make": "Mazda",
+      "vehicle_age": 6,
+      "median_price": 355000.0
+    },
+    {
+      "make": "Mazda",
+      "vehicle_age": 7,
+      "median_price": 329000.0
+    },
+    {
+      "make": "Mazda",
+      "vehicle_age": 8,
+      "median_price": 320000.0
+    },
+    {
+      "make": "Mazda",
+      "vehicle_age": 9,
+      "median_price": 362500.0
+    },
+    {
+      "make": "Mazda",
+      "vehicle_age": 10,
+      "median_price": 310000.0
+    },
+    {
+      "make": "Mazda",
+      "vehicle_age": 11,
+      "median_price": 278000.0
+    },
+    {
+      "make": "Mazda",
+      "vehicle_age": 12,
+      "median_price": 304500.0
+    },
+    {
+      "make": "Mazda",
+      "vehicle_age": 13,
+      "median_price": 310000.0
+    },
+    {
+      "make": "Mercedes-Benz",
+      "vehicle_age": 4,
+      "median_price": 1286000.0
+    },
+    {
+      "make": "Mercedes-Benz",
+      "vehicle_age": 5,
+      "median_price": 959000.0
+    },
+    {
+      "make": "Mercedes-Benz",
+      "vehicle_age": 6,
+      "median_price": 1038000.0
+    },
+    {
+      "make": "Mercedes-Benz",
+      "vehicle_age": 7,
+      "median_price": 1105000.0
+    },
+    {
+      "make": "Mercedes-Benz",
+      "vehicle_age": 8,
+      "median_price": 1116000.0
+    },
+    {
+      "make": "Mercedes-Benz",
+      "vehicle_age": 9,
+      "median_price": 1163500.0
+    },
+    {
+      "make": "Mercedes-Benz",
+      "vehicle_age": 10,
+      "median_price": 1014000.0
+    },
+    {
+      "make": "Mitsubishi",
+      "vehicle_age": 5,
+      "median_price": 556000.0
+    },
+    {
+      "make": "Mitsubishi",
+      "vehicle_age": 6,
+      "median_price": 370000.0
+    },
+    {
+      "make": "Mitsubishi",
+      "vehicle_age": 7,
+      "median_price": 358000.0
+    },
+    {
+      "make": "Mitsubishi",
+      "vehicle_age": 8,
+      "median_price": 538000.0
+    },
+    {
+      "make": "Mitsubishi",
+      "vehicle_age": 9,
+      "median_price": 570000.0
+    },
+    {
+      "make": "Mitsubishi",
+      "vehicle_age": 10,
+      "median_price": 367000.0
+    },
+    {
+      "make": "Mitsubishi",
+      "vehicle_age": 11,
+      "median_price": 375000.0
+    },
+    {
+      "make": "Mitsubishi",
+      "vehicle_age": 12,
+      "median_price": 349000.0
+    },
+    {
+      "make": "Mitsubishi",
+      "vehicle_age": 13,
+      "median_price": 359000.0
+    },
+    {
+      "make": "Nissan",
+      "vehicle_age": 6,
+      "median_price": 238000.0
+    },
+    {
+      "make": "Nissan",
+      "vehicle_age": 7,
+      "median_price": 197500.0
+    },
+    {
+      "make": "Nissan",
+      "vehicle_age": 8,
+      "median_price": 192500.0
+    },
+    {
+      "make": "Nissan",
+      "vehicle_age": 9,
+      "median_price": 251000.0
+    },
+    {
+      "make": "Nissan",
+      "vehicle_age": 10,
+      "median_price": 206000.0
+    },
+    {
+      "make": "Nissan",
+      "vehicle_age": 11,
+      "median_price": 223500.0
+    },
+    {
+      "make": "Nissan",
+      "vehicle_age": 12,
+      "median_price": 354000.0
+    },
+    {
+      "make": "Nissan",
+      "vehicle_age": 13,
+      "median_price": 204500.0
+    },
+    {
+      "make": "Nissan",
+      "vehicle_age": 14,
+      "median_price": 187000.0
+    },
+    {
+      "make": "Suzuki",
+      "vehicle_age": 4,
+      "median_price": 43000.0
+    },
+    {
+      "make": "Suzuki",
+      "vehicle_age": 5,
+      "median_price": 36000.0
+    },
+    {
+      "make": "Suzuki",
+      "vehicle_age": 6,
+      "median_price": 34000.0
+    },
+    {
+      "make": "Suzuki",
+      "vehicle_age": 7,
+      "median_price": 28500.0
+    },
+    {
+      "make": "Suzuki",
+      "vehicle_age": 8,
+      "median_price": 181000.0
+    },
+    {
+      "make": "Suzuki",
+      "vehicle_age": 9,
+      "median_price": 31000.0
+    },
+    {
+      "make": "Suzuki",
+      "vehicle_age": 10,
+      "median_price": 104000.0
+    },
+    {
+      "make": "Suzuki",
+      "vehicle_age": 11,
+      "median_price": 166000.0
+    },
+    {
+      "make": "Suzuki",
+      "vehicle_age": 12,
+      "median_price": 176500.0
+    },
+    {
+      "make": "Suzuki",
+      "vehicle_age": 13,
+      "median_price": 153000.0
+    },
+    {
+      "make": "Suzuki",
+      "vehicle_age": 14,
+      "median_price": 162000.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 3,
+      "median_price": 505500.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 4,
+      "median_price": 709000.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 5,
+      "median_price": 410500.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 6,
+      "median_price": 493000.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 7,
+      "median_price": 434000.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 8,
+      "median_price": 302000.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 9,
+      "median_price": 369500.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 10,
+      "median_price": 428000.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 11,
+      "median_price": 438000.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 12,
+      "median_price": 385000.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 13,
+      "median_price": 227500.0
+    },
+    {
+      "make": "Toyota",
+      "vehicle_age": 14,
+      "median_price": 413000.0
+    },
+    {
+      "make": "Yamaha",
+      "vehicle_age": 3,
+      "median_price": 59500.0
+    },
+    {
+      "make": "Yamaha",
+      "vehicle_age": 4,
+      "median_price": 56000.0
+    },
+    {
+      "make": "Yamaha",
+      "vehicle_age": 5,
+      "median_price": 44000.0
+    },
+    {
+      "make": "Yamaha",
+      "vehicle_age": 6,
+      "median_price": 39000.0
+    },
+    {
+      "make": "Yamaha",
+      "vehicle_age": 7,
+      "median_price": 38000.0
+    },
+    {
+      "make": "Yamaha",
+      "vehicle_age": 8,
+      "median_price": 33000.0
+    }
+  ]
+}
