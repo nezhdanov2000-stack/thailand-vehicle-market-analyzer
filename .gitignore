@@ -26,7 +26,6 @@ notebooks/median_price_by_age.png
 # Dashboard build & deps
 dashboard/node_modules/
 dashboard/dist/
-dashboard/public/data/
 
 # IDE / OS
 .vscode/

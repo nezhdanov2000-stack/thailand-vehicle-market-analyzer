@@ -1,0 +1,21 @@
+listing_id,title,make,model,year,vehicle_type,price,peer_median,discount_pct,saving_thb,deal_score,mileage,province,age_bucket,vehicle_age,source
+mock_0332,Yamaha R15 2021,Yamaha,R15,2021,Motorcycle,32000.0,53000.0,39.62,21000.0,0.8956,98100.0,Chiang Mai,3-5 yrs,5,Mock
+mock_0242,Honda Click 150 2021,Honda,Click 150,2021,Motorcycle,28000.0,60000.0,53.33,32000.0,0.8517,59800.0,Nakhon Ratchasima,3-5 yrs,5,Mock
+mock_0179,Honda Click 150 2021,Honda,Click 150,2021,Motorcycle,21000.0,60000.0,65.0,39000.0,0.8482,88900.0,Hat Yai (Songkhla),3-5 yrs,5,Mock
+mock_0569,Mazda CX-5 2018,Mazda,Cx-5,2018,Car,270000.0,445000.0,39.33,175000.0,0.8369,153500.0,Phuket,6-10 yrs,8,Mock
+mock_0131,Toyota Corolla 2021,Toyota,Corolla,2021,Car,258000.0,513000.0,49.71,255000.0,0.8098,67100.0,Lampang,3-5 yrs,5,Mock
+mock_0352,Yamaha NMAX 155 2021,Yamaha,Nmax 155,2021,Motorcycle,33000.0,53000.0,37.74,20000.0,0.8045,92200.0,Khon Kaen,3-5 yrs,5,Mock
+mock_0127,Honda Civic 2013,Honda,Civic,2013,Car,214000.0,353500.0,39.46,139500.0,0.7987,121300.0,Udon Thani,10+ yrs,13,Mock
+mock_0458,Honda PCX 160 2021,Honda,Pcx 160,2021,Motorcycle,36000.0,56000.0,35.71,20000.0,0.7953,106200.0,Samut Prakan,3-5 yrs,5,Mock
+mock_0220,Yamaha R15 2018,Yamaha,R15,2018,Motorcycle,30000.0,45000.0,33.33,15000.0,0.7707,101100.0,Pathum Thani,6-10 yrs,8,Mock
+mock_0278,Mitsubishi Pajero 2016,Mitsubishi,Pajero,2016,Car,367000.0,549000.0,33.15,182000.0,0.7543,162900.0,Chiang Mai,6-10 yrs,10,Mock
+mock_0455,Yamaha MT-15 2022,Yamaha,Mt-15,2022,Motorcycle,43000.0,59000.0,27.12,16000.0,0.7535,48800.0,Phuket,3-5 yrs,4,Mock
+mock_0405,Nissan Note 2017,Nissan,Note,2017,Car,113000.0,186000.0,39.25,73000.0,0.7378,143600.0,Lampang,6-10 yrs,9,Mock
+mock_0209,Nissan Navara 2020,Nissan,Navara,2020,Car,238000.0,356000.0,33.15,118000.0,0.7277,109200.0,Khon Kaen,6-10 yrs,6,Mock
+mock_0464,Yamaha MT-15 2022,Yamaha,Mt-15,2022,Motorcycle,43000.0,59000.0,27.12,16000.0,0.7196,78400.0,Chonburi,3-5 yrs,4,Mock
+mock_0285,Mazda CX-5 2022,Mazda,Cx-5,2022,Car,346000.0,476500.0,27.39,130500.0,0.7152,63700.0,Samut Prakan,3-5 yrs,4,Mock
+mock_0035,Toyota CHR 2022,Toyota,Chr,2022,Car,278000.0,410500.0,32.28,132500.0,0.7124,51300.0,Prachuap Khiri Khan,3-5 yrs,4,Mock
+mock_0510,Nissan Navara 2015,Nissan,Navara,2015,Car,252000.0,351000.0,28.21,99000.0,0.7112,132200.0,Chiang Mai,10+ yrs,11,Mock
+mock_0102,Toyota Fortuner 2018,Toyota,Fortuner,2018,Car,457000.0,616000.0,25.81,159000.0,0.7002,92500.0,Phuket,6-10 yrs,8,Mock
+mock_0181,Yamaha Aerox 155 2018,Yamaha,Aerox 155,2018,Motorcycle,26000.0,36500.0,28.77,10500.0,0.6887,107600.0,Rayong,6-10 yrs,8,Mock
+mock_0414,Mercedes-Benz C-Class 2021,Mercedes-Benz,C-Class,2021,Car,812000.0,1162500.0,30.15,350500.0,0.6884,49800.0,Lampang,3-5 yrs,5,Mock

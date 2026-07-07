@@ -1,0 +1,601 @@
+listing_id,title,make,model,year,price,mileage,province,vehicle_type,source,scraped_at,vehicle_age,age_bucket
+mock_0000,Honda City 2020,Honda,City,2020,243000.0,84200.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0001,Toyota CHR 2019,Toyota,Chr,2019,317000.0,135800.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0002,Ford Ranger 2015,Ford,Ranger,2015,378000.0,128400.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0003,Honda Click 150 2016,Honda,Click 150,2016,19000.0,118100.0,Rayong,Motorcycle,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0004,Honda Civic 2015,Honda,Civic,2015,374000.0,134100.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0005,Honda City 2014,Honda,City,2014,201000.0,200000.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0006,Toyota Hilux Revo 2015,Toyota,Hilux Revo,2015,426000.0,150900.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0007,Honda PCX 160 2021,Honda,Pcx 160,2021,47000.0,58400.0,Pathum Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0008,Mitsubishi Triton 2019,Mitsubishi,Triton,2019,358000.0,78300.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0009,Mitsubishi Triton 2017,Mitsubishi,Triton,2017,363000.0,82300.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0010,Mazda CX-5 2019,Mazda,Cx-5,2019,429000.0,165500.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0011,Ford EcoSport 2013,Ford,Ecosport,2013,235000.0,178900.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0012,Nissan Almera 2012,Nissan,Almera,2012,202000.0,295100.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0013,Mercedes-Benz C-Class 2021,Mercedes-Benz,C-Class,2021,959000.0,65500.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0014,Honda CR-V 2015,Honda,Cr-V,2015,459000.0,282100.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0015,Nissan Note 2012,Nissan,Note,2012,136000.0,302800.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0016,Honda City 2016,Honda,City,2016,217000.0,183700.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0017,Kawasaki Ninja 300 2022,Kawasaki,Ninja 300,2022,84000.0,78100.0,Khon Kaen,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0018,Mercedes-Benz C-Class 2016,Mercedes-Benz,C-Class,2016,1026000.0,233800.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0019,Mazda CX-5 2019,Mazda,Cx-5,2019,407000.0,88800.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0020,Toyota CHR 2023,Toyota,Chr,2023,535000.0,65100.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0021,Yamaha R15 2019,Yamaha,R15,2019,42000.0,133100.0,Pathum Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0022,Suzuki GSX-S150 2016,Suzuki,Gsx-S150,2016,31000.0,141900.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0023,Yamaha NMAX 155 2019,Yamaha,Nmax 155,2019,38000.0,69800.0,Prachuap Khiri Khan,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0024,Nissan Navara 2017,Nissan,Navara,2017,316000.0,82600.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0025,Suzuki Swift 2018,Suzuki,Swift,2018,181000.0,119000.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0026,Yamaha R15 2022,Yamaha,R15,2022,63000.0,39700.0,Hat Yai (Songkhla),Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0027,BMW Series 3 2015,Bmw,Series 3,2015,884000.0,132200.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0028,Toyota Fortuner 2019,Toyota,Fortuner,2019,627000.0,70100.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0029,Suzuki GSX-S150 2019,Suzuki,Gsx-S150,2019,28000.0,104600.0,Phuket,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0030,Yamaha NMAX 155 2019,Yamaha,Nmax 155,2019,35000.0,158600.0,Phuket,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0031,Nissan Almera 2018,Nissan,Almera,2018,196000.0,164600.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0032,Honda PCX 160 2023,Honda,Pcx 160,2023,67000.0,45600.0,Saraburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0033,Yamaha MT-15 2022,Yamaha,Mt-15,2022,53000.0,45900.0,Saraburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0034,Toyota Fortuner 2017,Toyota,Fortuner,2017,436000.0,133700.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0035,Toyota CHR 2022,Toyota,Chr,2022,278000.0,51300.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0036,Nissan Almera 2020,Nissan,Almera,2020,214000.0,122000.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0037,Nissan Note 2017,Nissan,Note,2017,186000.0,121100.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0038,Yamaha Aerox 155 2021,Yamaha,Aerox 155,2021,45000.0,49500.0,Prachuap Khiri Khan,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0039,Honda Civic 2019,Honda,Civic,2019,353000.0,107300.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0040,Nissan Almera 2015,Nissan,Almera,2015,191000.0,233300.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0041,Kawasaki Z400 2023,Kawasaki,Z400,2023,127000.0,44300.0,Khon Kaen,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0042,Nissan Note 2019,Nissan,Note,2019,194000.0,75800.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0043,Ford EcoSport 2015,Ford,Ecosport,2015,226000.0,158100.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0044,Toyota Fortuner 2022,Toyota,Fortuner,2022,739000.0,30100.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0045,Nissan Note 2018,Nissan,Note,2018,189000.0,141000.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0046,Toyota Yaris 2018,Toyota,Yaris,2018,222000.0,161300.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0047,Honda HR-V 2021,Honda,Hr-V,2021,355000.0,66000.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0048,Nissan Almera 2019,Nissan,Almera,2019,194000.0,149800.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0049,Nissan Almera 2018,Nissan,Almera,2018,219000.0,95800.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0050,Honda CBR 150R 2016,Honda,Cbr 150R,2016,41000.0,121000.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0051,Honda PCX 160 2023,Honda,Pcx 160,2023,66000.0,47900.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0052,Nissan Navara 2020,Nissan,Navara,2020,361000.0,106500.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0053,BMW Series 3 2015,Bmw,Series 3,2015,932000.0,214400.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0054,Nissan Note 2018,Nissan,Note,2018,183000.0,65000.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0055,BMW Series 3 2016,Bmw,Series 3,2016,889000.0,110700.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0056,Ford Ranger 2017,Ford,Ranger,2017,364000.0,209200.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0057,Ford Ranger 2016,Ford,Ranger,2016,395000.0,165500.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0058,Mazda 3 2016,Mazda,3,2016,310000.0,153300.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0059,Honda CBR 150R 2017,Honda,Cbr 150R,2017,44000.0,123700.0,Surat Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0060,Honda Wave 110 2012,Honda,Wave 110,2012,16000.0,180300.0,Prachuap Khiri Khan,Motorcycle,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0061,Mazda CX-5 2019,Mazda,Cx-5,2019,445000.0,126600.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0062,Toyota CHR 2021,Toyota,Chr,2021,401000.0,58600.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0063,Mazda 3 2017,Mazda,3,2017,268000.0,170700.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0064,Yamaha Aerox 155 2020,Yamaha,Aerox 155,2020,39000.0,97400.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0065,Honda Jazz 2019,Honda,Jazz,2019,194000.0,96000.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0066,Isuzu D-Max 2013,Isuzu,D-Max,2013,346000.0,151800.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0067,Kawasaki Z400 2019,Kawasaki,Z400,2019,87000.0,128900.0,Lampang,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0068,Honda Click 150 2014,Honda,Click 150,2014,22000.0,206900.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0069,Mitsubishi Triton 2013,Mitsubishi,Triton,2013,359000.0,165300.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0070,Mitsubishi Triton 2015,Mitsubishi,Triton,2015,337000.0,106700.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0071,Honda Jazz 2016,Honda,Jazz,2016,164000.0,185000.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0072,Ford EcoSport 2014,Ford,Ecosport,2014,235000.0,150300.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0073,Honda PCX 160 2020,Honda,Pcx 160,2020,38000.0,119200.0,Hat Yai (Songkhla),Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0074,Suzuki GSX-S150 2017,Suzuki,Gsx-S150,2017,31000.0,121700.0,Udon Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0075,Honda Click 150 2014,Honda,Click 150,2014,18000.0,226300.0,Ubon Ratchathani,Motorcycle,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0076,Honda HR-V 2021,Honda,Hr-V,2021,399000.0,39200.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0077,Honda HR-V 2014,Honda,Hr-V,2014,300000.0,152500.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0078,Suzuki Swift 2013,Suzuki,Swift,2013,172000.0,187100.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0079,Yamaha R15 2023,Yamaha,R15,2023,47000.0,44700.0,Chiang Mai,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0080,Toyota Corolla 2018,Toyota,Corolla,2018,231000.0,95000.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0081,Ford EcoSport 2013,Ford,Ecosport,2013,250000.0,176300.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0082,Honda CR-V 2017,Honda,Cr-V,2017,327000.0,136300.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0083,Toyota Yaris 2017,Toyota,Yaris,2017,202000.0,211300.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0084,Toyota Hilux Revo 2018,Toyota,Hilux Revo,2018,453000.0,89400.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0085,Toyota Camry 2014,Toyota,Camry,2014,385000.0,236600.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0086,Isuzu D-Max 2016,Isuzu,D-Max,2016,389000.0,175400.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0087,Mitsubishi Triton 2015,Mitsubishi,Triton,2015,375000.0,108900.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0088,Nissan Almera 2013,Nissan,Almera,2013,203000.0,144600.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0089,Isuzu D-Max 2013,Isuzu,D-Max,2013,358000.0,175700.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0090,Mitsubishi Triton 2020,Mitsubishi,Triton,2020,351000.0,94800.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0091,Nissan Almera 2013,Nissan,Almera,2013,206000.0,101000.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0092,Honda Wave 110 2017,Honda,Wave 110,2017,14000.0,164900.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0093,Honda Click 150 2016,Honda,Click 150,2016,19000.0,127800.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0094,Ford Ranger 2016,Ford,Ranger,2016,370000.0,106200.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0095,Mitsubishi Triton 2016,Mitsubishi,Triton,2016,384000.0,124200.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0096,Mazda 3 2020,Mazda,3,2020,264000.0,67500.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0097,Yamaha MT-15 2023,Yamaha,Mt-15,2023,70000.0,52400.0,Nakhon Ratchasima,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0098,Isuzu D-Max 2020,Isuzu,D-Max,2020,361000.0,85000.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0099,Yamaha MT-15 2023,Yamaha,Mt-15,2023,66000.0,29600.0,Prachuap Khiri Khan,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0100,Mazda 3 2019,Mazda,3,2019,230000.0,147600.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0101,Nissan Navara 2014,Nissan,Navara,2014,347000.0,305000.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0102,Toyota Fortuner 2018,Toyota,Fortuner,2018,457000.0,92500.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0103,Honda CR-V 2018,Honda,Cr-V,2018,357000.0,154800.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0104,Mitsubishi Pajero 2021,Mitsubishi,Pajero,2021,549000.0,64800.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0105,Nissan Note 2017,Nissan,Note,2017,177000.0,139400.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0106,Toyota Yaris 2020,Toyota,Yaris,2020,205000.0,145300.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0107,Honda City 2013,Honda,City,2013,228000.0,188000.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0108,Yamaha NMAX 155 2023,Yamaha,Nmax 155,2023,59000.0,48700.0,Bangkok,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0109,Toyota CHR 2022,Toyota,Chr,2022,491000.0,81800.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0110,Mitsubishi Triton 2020,Mitsubishi,Triton,2020,368000.0,121100.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0111,Isuzu D-Max 2014,Isuzu,D-Max,2014,390000.0,135400.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0112,Suzuki Swift 2014,Suzuki,Swift,2014,186000.0,175000.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0113,Mitsubishi Pajero 2015,Mitsubishi,Pajero,2015,584000.0,144500.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0114,Mazda CX-5 2022,Mazda,Cx-5,2022,590000.0,88100.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0115,Suzuki GSX-S150 2019,Suzuki,Gsx-S150,2019,29000.0,119700.0,Nakhon Sawan,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0116,Yamaha NMAX 155 2023,Yamaha,Nmax 155,2023,54000.0,42500.0,Nakhon Sawan,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0117,Honda City 2020,Honda,City,2020,254000.0,94000.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0118,Toyota Camry 2012,Toyota,Camry,2012,540000.0,162200.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0119,Honda Jazz 2012,Honda,Jazz,2012,196000.0,192400.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0120,Yamaha R15 2022,Yamaha,R15,2022,48000.0,79700.0,Khon Kaen,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0121,Toyota Yaris 2016,Toyota,Yaris,2016,232000.0,196200.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0122,Mitsubishi Triton 2020,Mitsubishi,Triton,2020,335000.0,123300.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0123,Honda Jazz 2012,Honda,Jazz,2012,181000.0,308600.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0124,Yamaha Aerox 155 2021,Yamaha,Aerox 155,2021,44000.0,72600.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0125,Honda CBR 150R 2022,Honda,Cbr 150R,2022,52000.0,60500.0,Khon Kaen,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0126,Yamaha MT-15 2023,Yamaha,Mt-15,2023,60000.0,56600.0,Ubon Ratchathani,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0127,Honda Civic 2013,Honda,Civic,2013,214000.0,121300.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0128,Suzuki Swift 2013,Suzuki,Swift,2013,185000.0,226100.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0129,Yamaha MT-15 2019,Yamaha,Mt-15,2019,28000.0,133700.0,Phuket,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0130,Honda Click 150 2020,Honda,Click 150,2020,24000.0,67500.0,Surat Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0131,Toyota Corolla 2021,Toyota,Corolla,2021,258000.0,67100.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0132,Honda CBR 150R 2018,Honda,Cbr 150R,2018,41000.0,76900.0,Rayong,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0133,Nissan Almera 2013,Nissan,Almera,2013,164000.0,179600.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0134,Yamaha Aerox 155 2021,Yamaha,Aerox 155,2021,43000.0,109200.0,Prachuap Khiri Khan,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0135,Mazda 3 2014,Mazda,3,2014,311000.0,147000.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0136,Yamaha R15 2023,Yamaha,R15,2023,65000.0,51100.0,Surat Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0137,Toyota Corolla 2015,Toyota,Corolla,2015,286000.0,148100.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0138,Mitsubishi Pajero 2018,Mitsubishi,Pajero,2018,562000.0,112500.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0139,Honda Civic 2020,Honda,Civic,2020,337000.0,107500.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0140,Toyota CHR 2021,Toyota,Chr,2021,386000.0,51800.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0141,Mercedes-Benz C-Class 2018,Mercedes-Benz,C-Class,2018,1100000.0,86800.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0142,Mitsubishi Pajero 2016,Mitsubishi,Pajero,2016,583000.0,88100.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0143,Honda Wave 110 2012,Honda,Wave 110,2012,15000.0,123000.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0144,Yamaha Aerox 155 2021,Yamaha,Aerox 155,2021,43000.0,90900.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0145,Honda Civic 2017,Honda,Civic,2017,348000.0,155000.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0146,Nissan Navara 2019,Nissan,Navara,2019,359000.0,114000.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0147,Honda HR-V 2021,Honda,Hr-V,2021,402000.0,69500.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0148,Suzuki GSX-S150 2021,Suzuki,Gsx-S150,2021,36000.0,89700.0,Khon Kaen,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0149,Honda CBR 150R 2017,Honda,Cbr 150R,2017,37000.0,189700.0,Udon Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0150,Toyota Hilux Revo 2015,Toyota,Hilux Revo,2015,438000.0,185100.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0151,Mercedes-Benz C-Class 2018,Mercedes-Benz,C-Class,2018,1188000.0,82600.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0152,Honda City 2013,Honda,City,2013,202000.0,329900.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0153,Suzuki Swift 2016,Suzuki,Swift,2016,198000.0,99000.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0154,Ford EcoSport 2017,Ford,Ecosport,2017,255000.0,131100.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0155,Toyota Camry 2016,Toyota,Camry,2016,486000.0,166300.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0156,Toyota Corolla 2019,Toyota,Corolla,2019,271000.0,102500.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0157,Isuzu D-Max 2016,Isuzu,D-Max,2016,346000.0,143000.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0158,Yamaha R15 2020,Yamaha,R15,2020,49000.0,68700.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0159,Toyota Hilux Revo 2015,Toyota,Hilux Revo,2015,475000.0,179700.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0160,Toyota Fortuner 2019,Toyota,Fortuner,2019,642000.0,81900.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0161,Toyota Yaris 2019,Toyota,Yaris,2019,175000.0,141100.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0162,Honda PCX 160 2019,Honda,Pcx 160,2019,40000.0,133600.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0163,Ford EcoSport 2014,Ford,Ecosport,2014,238000.0,223300.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0164,Honda CBR 150R 2017,Honda,Cbr 150R,2017,37000.0,118000.0,Khon Kaen,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0165,Yamaha R15 2023,Yamaha,R15,2023,48000.0,57400.0,Saraburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0166,Toyota Fortuner 2018,Toyota,Fortuner,2018,655000.0,90900.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0167,Toyota Fortuner 2020,Toyota,Fortuner,2020,612000.0,117300.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0168,Yamaha R15 2022,Yamaha,R15,2022,64000.0,70400.0,Udon Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0169,Nissan Navara 2014,Nissan,Navara,2014,374000.0,164200.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0170,Toyota Corolla 2019,Toyota,Corolla,2019,286000.0,99200.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0171,Honda Jazz 2013,Honda,Jazz,2013,165000.0,103100.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0172,Ford EcoSport 2014,Ford,Ecosport,2014,236000.0,171000.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0173,Toyota CHR 2023,Toyota,Chr,2023,476000.0,35800.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0174,Yamaha NMAX 155 2018,Yamaha,Nmax 155,2018,37000.0,116000.0,Lampang,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0175,Honda City 2015,Honda,City,2015,217000.0,215100.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0176,Toyota Hilux Revo 2019,Toyota,Hilux Revo,2019,441000.0,58300.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0177,Honda HR-V 2017,Honda,Hr-V,2017,230000.0,123600.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0178,Suzuki GSX-S150 2017,Suzuki,Gsx-S150,2017,28000.0,105700.0,Chiang Mai,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0179,Honda Click 150 2021,Honda,Click 150,2021,21000.0,88900.0,Hat Yai (Songkhla),Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0180,Mitsubishi Pajero 2020,Mitsubishi,Pajero,2020,540000.0,90800.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0181,Yamaha Aerox 155 2018,Yamaha,Aerox 155,2018,26000.0,107600.0,Rayong,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0182,Kawasaki Z400 2023,Kawasaki,Z400,2023,120000.0,38900.0,Nonthaburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0183,Toyota Yaris 2012,Toyota,Yaris,2012,226000.0,229400.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0184,BMW Series 3 2019,Bmw,Series 3,2019,691000.0,110100.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0185,Isuzu D-Max 2013,Isuzu,D-Max,2013,377000.0,245700.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0186,Mazda CX-5 2016,Mazda,Cx-5,2016,492000.0,127500.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0187,Mazda 3 2016,Mazda,3,2016,305000.0,99400.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0188,Toyota Hilux Revo 2020,Toyota,Hilux Revo,2020,438000.0,73600.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0189,Honda PCX 160 2020,Honda,Pcx 160,2020,42000.0,62100.0,Prachuap Khiri Khan,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0190,Ford Ranger 2016,Ford,Ranger,2016,408000.0,106900.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0191,Toyota CHR 2019,Toyota,Chr,2019,292000.0,122100.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0192,Honda CR-V 2016,Honda,Cr-V,2016,439000.0,194500.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0193,Toyota Fortuner 2016,Toyota,Fortuner,2016,616000.0,116500.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0194,Mitsubishi Pajero 2017,Mitsubishi,Pajero,2017,575000.0,218900.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0195,Toyota CHR 2019,Toyota,Chr,2019,413000.0,135200.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0196,Honda HR-V 2020,Honda,Hr-V,2020,313000.0,109600.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0197,Toyota CHR 2018,Toyota,Chr,2018,414000.0,75600.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0198,Ford EcoSport 2015,Ford,Ecosport,2015,261000.0,196100.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0199,Toyota Yaris 2016,Toyota,Yaris,2016,164000.0,134600.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0200,Honda HR-V 2015,Honda,Hr-V,2015,298000.0,158400.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0201,Honda CBR 150R 2020,Honda,Cbr 150R,2020,43000.0,110500.0,Ubon Ratchathani,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0202,Nissan Navara 2017,Nissan,Navara,2017,337000.0,197700.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0203,Mercedes-Benz C-Class 2017,Mercedes-Benz,C-Class,2017,1198000.0,183600.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0204,Kawasaki Ninja 300 2018,Kawasaki,Ninja 300,2018,59000.0,125400.0,Khon Kaen,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0205,Nissan Note 2020,Nissan,Note,2020,191000.0,144300.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0206,Honda City 2016,Honda,City,2016,202000.0,215800.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0207,Honda Click 150 2020,Honda,Click 150,2020,25000.0,128400.0,Bangkok,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0208,Honda CBR 150R 2022,Honda,Cbr 150R,2022,53000.0,84700.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0209,Nissan Navara 2020,Nissan,Navara,2020,238000.0,109200.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0210,Toyota Hilux Revo 2018,Toyota,Hilux Revo,2018,488000.0,113400.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0211,Yamaha NMAX 155 2019,Yamaha,Nmax 155,2019,27000.0,89700.0,Krabi,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0212,Kawasaki Z400 2020,Kawasaki,Z400,2020,78000.0,69300.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0213,Honda CBR 150R 2017,Honda,Cbr 150R,2017,42000.0,127800.0,Nakhon Sawan,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0214,Suzuki GSX-S150 2022,Suzuki,Gsx-S150,2022,43000.0,43200.0,Bangkok,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0215,BMW Series 3 2018,Bmw,Series 3,2018,913000.0,92500.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0216,Toyota Yaris 2012,Toyota,Yaris,2012,222000.0,264800.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0217,Yamaha R15 2023,Yamaha,R15,2023,70000.0,48800.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0218,Toyota Yaris 2015,Toyota,Yaris,2015,209000.0,149600.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0219,Honda HR-V 2021,Honda,Hr-V,2021,358000.0,77100.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0220,Yamaha R15 2018,Yamaha,R15,2018,30000.0,101100.0,Pathum Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0221,Toyota Hilux Revo 2014,Toyota,Hilux Revo,2014,281000.0,207800.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0222,Yamaha R15 2021,Yamaha,R15,2021,48000.0,67100.0,Chiang Mai,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0223,Suzuki Swift 2015,Suzuki,Swift,2015,166000.0,208700.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0224,Suzuki Swift 2017,Suzuki,Swift,2017,180000.0,143200.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0225,Honda Click 150 2020,Honda,Click 150,2020,23000.0,79900.0,Nakhon Ratchasima,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0226,Honda Civic 2019,Honda,Civic,2019,338000.0,128600.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0227,Honda CR-V 2014,Honda,Cr-V,2014,295000.0,202400.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0228,Mitsubishi Triton 2020,Mitsubishi,Triton,2020,320000.0,96500.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0229,Toyota Corolla 2019,Toyota,Corolla,2019,321000.0,86700.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0230,Nissan Almera 2015,Nissan,Almera,2015,194000.0,123100.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0231,Mercedes-Benz C-Class 2020,Mercedes-Benz,C-Class,2020,895000.0,90200.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0232,Nissan Almera 2019,Nissan,Almera,2019,181000.0,120600.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0233,Honda City 2016,Honda,City,2016,232000.0,175400.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0234,Yamaha MT-15 2022,Yamaha,Mt-15,2022,53000.0,55900.0,Ubon Ratchathani,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0235,Toyota CHR 2018,Toyota,Chr,2018,437000.0,141300.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0236,Suzuki GSX-S150 2020,Suzuki,Gsx-S150,2020,35000.0,90700.0,Lampang,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0237,Nissan Navara 2019,Nissan,Navara,2019,384000.0,114100.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0238,Mercedes-Benz C-Class 2018,Mercedes-Benz,C-Class,2018,1116000.0,118500.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0239,Toyota Yaris 2016,Toyota,Yaris,2016,216000.0,181200.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0240,Toyota Yaris 2018,Toyota,Yaris,2018,241000.0,136100.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0241,BMW Series 3 2019,Bmw,Series 3,2019,968000.0,111200.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0242,Honda Click 150 2021,Honda,Click 150,2021,28000.0,59800.0,Nakhon Ratchasima,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0243,Nissan Navara 2015,Nissan,Navara,2015,381000.0,194600.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0244,Ford Ranger 2017,Ford,Ranger,2017,370000.0,127500.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0245,Honda Jazz 2017,Honda,Jazz,2017,186000.0,161800.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0246,Toyota Hilux Revo 2014,Toyota,Hilux Revo,2014,319000.0,200400.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0247,Honda CBR 150R 2018,Honda,Cbr 150R,2018,41000.0,132400.0,Surat Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0248,Yamaha R15 2022,Yamaha,R15,2022,64000.0,57800.0,Chiang Mai,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0249,Honda CR-V 2014,Honda,Cr-V,2014,442000.0,198800.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0250,Mazda CX-5 2017,Mazda,Cx-5,2017,494000.0,115800.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0251,Kawasaki Ninja 300 2018,Kawasaki,Ninja 300,2018,55000.0,82700.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0252,Honda Jazz 2018,Honda,Jazz,2018,164000.0,114400.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0253,Mazda CX-5 2018,Mazda,Cx-5,2018,470000.0,100800.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0254,Yamaha Aerox 155 2020,Yamaha,Aerox 155,2020,39000.0,87200.0,Lampang,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0255,Yamaha Aerox 155 2022,Yamaha,Aerox 155,2022,44000.0,37600.0,Krabi,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0256,Yamaha R15 2021,Yamaha,R15,2021,53000.0,66600.0,Udon Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0257,Mercedes-Benz C-Class 2016,Mercedes-Benz,C-Class,2016,906000.0,156900.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0258,Mitsubishi Pajero 2020,Mitsubishi,Pajero,2020,537000.0,99000.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0259,Honda City 2018,Honda,City,2018,241000.0,128800.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0260,Honda Jazz 2016,Honda,Jazz,2016,184000.0,77500.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0261,Suzuki Swift 2012,Suzuki,Swift,2012,121000.0,154300.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0262,Mazda CX-5 2021,Mazda,Cx-5,2021,465000.0,78700.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0263,Kawasaki Ninja 300 2018,Kawasaki,Ninja 300,2018,60000.0,169200.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0264,Suzuki Swift 2018,Suzuki,Swift,2018,197000.0,88300.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0265,Nissan Navara 2020,Nissan,Navara,2020,356000.0,76800.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0266,Toyota Hilux Revo 2016,Toyota,Hilux Revo,2016,415000.0,144000.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0267,Ford EcoSport 2014,Ford,Ecosport,2014,240000.0,260300.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0268,Honda HR-V 2018,Honda,Hr-V,2018,324000.0,144900.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0269,Isuzu D-Max 2013,Isuzu,D-Max,2013,411000.0,227100.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0270,Yamaha R15 2022,Yamaha,R15,2022,65000.0,49700.0,Surat Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0271,Mitsubishi Pajero 2018,Mitsubishi,Pajero,2018,571000.0,129900.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0272,Mitsubishi Pajero 2020,Mitsubishi,Pajero,2020,558000.0,117700.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0273,Mitsubishi Pajero 2021,Mitsubishi,Pajero,2021,556000.0,98300.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0274,Yamaha R15 2022,Yamaha,R15,2022,56000.0,85900.0,Khon Kaen,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0275,Honda Civic 2017,Honda,Civic,2017,332000.0,140600.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0276,Toyota Fortuner 2022,Toyota,Fortuner,2022,707000.0,51700.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0277,Toyota Camry 2012,Toyota,Camry,2012,603000.0,245700.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0278,Mitsubishi Pajero 2016,Mitsubishi,Pajero,2016,367000.0,162900.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0279,Isuzu D-Max 2014,Isuzu,D-Max,2014,409000.0,165100.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0280,Yamaha MT-15 2022,Yamaha,Mt-15,2022,62000.0,72300.0,Bangkok,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0281,Mazda 3 2019,Mazda,3,2019,326000.0,157900.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0282,Kawasaki Z400 2020,Kawasaki,Z400,2020,69000.0,70800.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0283,Suzuki Swift 2017,Suzuki,Swift,2017,188000.0,83200.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0284,Mitsubishi Pajero 2018,Mitsubishi,Pajero,2018,514000.0,159300.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0285,Mazda CX-5 2022,Mazda,Cx-5,2022,346000.0,63700.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0286,Toyota Camry 2016,Toyota,Camry,2016,537000.0,182900.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0287,Toyota Camry 2016,Toyota,Camry,2016,567000.0,121300.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0288,Mazda 3 2018,Mazda,3,2018,294000.0,134500.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0289,Mercedes-Benz C-Class 2018,Mercedes-Benz,C-Class,2018,1039000.0,113000.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0290,Mercedes-Benz C-Class 2019,Mercedes-Benz,C-Class,2019,1144000.0,155500.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0291,Nissan Almera 2019,Nissan,Almera,2019,201000.0,83300.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0292,Honda City 2020,Honda,City,2020,247000.0,83400.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0293,Honda CR-V 2016,Honda,Cr-V,2016,482000.0,151000.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0294,Toyota CHR 2019,Toyota,Chr,2019,326000.0,114600.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0295,Yamaha Aerox 155 2018,Yamaha,Aerox 155,2018,37000.0,112500.0,Bangkok,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0296,Ford EcoSport 2019,Ford,Ecosport,2019,218000.0,79200.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0297,Toyota Yaris 2013,Toyota,Yaris,2013,199000.0,184200.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0298,Mercedes-Benz C-Class 2019,Mercedes-Benz,C-Class,2019,1089000.0,104800.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0299,Honda HR-V 2016,Honda,Hr-V,2016,296000.0,167200.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0300,Toyota Camry 2020,Toyota,Camry,2020,603000.0,108400.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0301,Nissan Navara 2017,Nissan,Navara,2017,347000.0,148700.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0302,Toyota Hilux Revo 2014,Toyota,Hilux Revo,2014,464000.0,103900.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0303,Honda Civic 2020,Honda,Civic,2020,346000.0,54900.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0304,Honda Wave 110 2013,Honda,Wave 110,2013,14000.0,111300.0,Surat Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0305,Nissan Navara 2015,Nissan,Navara,2015,355000.0,141300.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0306,Kawasaki Z400 2022,Kawasaki,Z400,2022,106000.0,97100.0,Nonthaburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0307,Honda Click 150 2014,Honda,Click 150,2014,18000.0,228400.0,Nakhon Ratchasima,Motorcycle,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0308,Honda CBR 150R 2019,Honda,Cbr 150R,2019,37000.0,129600.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0309,Mazda 3 2018,Mazda,3,2018,318000.0,145700.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0310,Kawasaki Z400 2022,Kawasaki,Z400,2022,106000.0,67100.0,Ubon Ratchathani,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0311,Mercedes-Benz C-Class 2022,Mercedes-Benz,C-Class,2022,1329000.0,37400.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0312,Toyota Hilux Revo 2014,Toyota,Hilux Revo,2014,412000.0,267200.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0313,Ford EcoSport 2013,Ford,Ecosport,2013,226000.0,247900.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0314,Ford EcoSport 2017,Ford,Ecosport,2017,170000.0,200600.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0315,Ford EcoSport 2014,Ford,Ecosport,2014,260000.0,163100.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0316,BMW Series 3 2017,Bmw,Series 3,2017,857000.0,160000.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0317,Mazda CX-5 2021,Mazda,Cx-5,2021,463000.0,117100.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0318,Toyota Corolla 2017,Toyota,Corolla,2017,303000.0,132900.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0319,Suzuki Swift 2016,Suzuki,Swift,2016,176000.0,187300.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0320,Nissan Note 2013,Nissan,Note,2013,197000.0,229000.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0321,Honda CR-V 2019,Honda,Cr-V,2019,470000.0,171100.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0322,Kawasaki Z400 2023,Kawasaki,Z400,2023,90000.0,37500.0,Hat Yai (Songkhla),Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0323,Honda HR-V 2018,Honda,Hr-V,2018,292000.0,109000.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0324,Toyota Fortuner 2018,Toyota,Fortuner,2018,617000.0,157000.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0325,Toyota Camry 2012,Toyota,Camry,2012,413000.0,207400.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0326,Toyota Corolla 2013,Toyota,Corolla,2013,319000.0,128500.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0327,Kawasaki Z400 2022,Kawasaki,Z400,2022,102000.0,67200.0,Udon Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0328,Honda Wave 110 2019,Honda,Wave 110,2019,15000.0,114000.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0329,Mazda 3 2019,Mazda,3,2019,309000.0,55700.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0330,Honda PCX 160 2019,Honda,Pcx 160,2019,40000.0,67200.0,Hat Yai (Songkhla),Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0331,Suzuki Swift 2018,Suzuki,Swift,2018,194000.0,91000.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0332,Yamaha R15 2021,Yamaha,R15,2021,32000.0,98100.0,Chiang Mai,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0333,Isuzu D-Max 2015,Isuzu,D-Max,2015,343000.0,156600.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0334,Toyota Yaris 2016,Toyota,Yaris,2016,205000.0,181100.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0335,Suzuki Swift 2013,Suzuki,Swift,2013,123000.0,146800.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0336,Toyota Fortuner 2022,Toyota,Fortuner,2022,711000.0,66300.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0337,Honda Wave 110 2015,Honda,Wave 110,2015,14000.0,190100.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0338,Honda PCX 160 2020,Honda,Pcx 160,2020,39000.0,73200.0,Krabi,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0339,Mitsubishi Pajero 2018,Mitsubishi,Pajero,2018,470000.0,114600.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0340,Mercedes-Benz C-Class 2022,Mercedes-Benz,C-Class,2022,1212000.0,63300.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0341,Honda Civic 2018,Honda,Civic,2018,321000.0,158000.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0342,Honda Civic 2020,Honda,Civic,2020,321000.0,125700.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0343,Honda PCX 160 2023,Honda,Pcx 160,2023,59000.0,38800.0,Saraburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0344,Nissan Almera 2012,Nissan,Almera,2012,187000.0,148000.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0345,Yamaha MT-15 2022,Yamaha,Mt-15,2022,52000.0,59500.0,Phuket,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0346,Mercedes-Benz C-Class 2020,Mercedes-Benz,C-Class,2020,1198000.0,114900.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0347,Yamaha Aerox 155 2023,Yamaha,Aerox 155,2023,38000.0,57600.0,Nakhon Ratchasima,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0348,Yamaha NMAX 155 2021,Yamaha,Nmax 155,2021,44000.0,77100.0,Nakhon Ratchasima,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0349,Ford Ranger 2014,Ford,Ranger,2014,385000.0,159900.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0350,Nissan Almera 2015,Nissan,Almera,2015,195000.0,166200.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0351,Ford Ranger 2019,Ford,Ranger,2019,415000.0,155600.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0352,Yamaha NMAX 155 2021,Yamaha,Nmax 155,2021,33000.0,92200.0,Khon Kaen,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0353,Mazda 3 2017,Mazda,3,2017,285000.0,178800.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0354,Yamaha NMAX 155 2019,Yamaha,Nmax 155,2019,38000.0,160600.0,Hat Yai (Songkhla),Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0355,Suzuki GSX-S150 2022,Suzuki,Gsx-S150,2022,44000.0,79400.0,Phuket,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0356,Honda Civic 2017,Honda,Civic,2017,361000.0,100200.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0357,Suzuki Swift 2013,Suzuki,Swift,2013,134000.0,248900.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0358,Nissan Navara 2013,Nissan,Navara,2013,341000.0,284500.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0359,BMW Series 3 2021,Bmw,Series 3,2021,947000.0,43900.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0360,BMW Series 3 2017,Bmw,Series 3,2017,872000.0,165100.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0361,Honda Civic 2013,Honda,Civic,2013,366000.0,127000.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0362,Toyota Corolla 2016,Toyota,Corolla,2016,309000.0,159700.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0363,Kawasaki Z400 2022,Kawasaki,Z400,2022,109000.0,86600.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0364,Honda Wave 110 2018,Honda,Wave 110,2018,14000.0,94600.0,Krabi,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0365,Ford Ranger 2014,Ford,Ranger,2014,407000.0,133600.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0366,Honda Civic 2018,Honda,Civic,2018,341000.0,81400.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0367,Kawasaki Z400 2018,Kawasaki,Z400,2018,82000.0,138300.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0368,BMW Series 3 2014,Bmw,Series 3,2014,921000.0,223300.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0369,Toyota CHR 2018,Toyota,Chr,2018,292000.0,96100.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0370,Kawasaki Ninja 300 2019,Kawasaki,Ninja 300,2019,46000.0,90600.0,Saraburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0371,Isuzu D-Max 2018,Isuzu,D-Max,2018,298000.0,149100.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0372,Toyota Camry 2013,Toyota,Camry,2013,510000.0,250400.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0373,Honda CBR 150R 2017,Honda,Cbr 150R,2017,40000.0,154400.0,Phuket,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0374,Toyota Corolla 2018,Toyota,Corolla,2018,288000.0,131400.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0375,Yamaha MT-15 2019,Yamaha,Mt-15,2019,42000.0,117300.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0376,Suzuki GSX-S150 2016,Suzuki,Gsx-S150,2016,32000.0,177100.0,Hat Yai (Songkhla),Motorcycle,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0377,Honda Civic 2017,Honda,Civic,2017,336000.0,134100.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0378,Yamaha NMAX 155 2023,Yamaha,Nmax 155,2023,61000.0,65600.0,Krabi,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0379,Honda Click 150 2019,Honda,Click 150,2019,21000.0,110900.0,Prachuap Khiri Khan,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0380,BMW Series 3 2017,Bmw,Series 3,2017,917000.0,116300.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0381,Kawasaki Ninja 300 2017,Kawasaki,Ninja 300,2017,45000.0,188500.0,Udon Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0382,Honda HR-V 2019,Honda,Hr-V,2019,304000.0,113800.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0383,Yamaha MT-15 2022,Yamaha,Mt-15,2022,58000.0,62100.0,Phuket,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0384,Toyota CHR 2020,Toyota,Chr,2020,401000.0,93700.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0385,Mazda CX-5 2018,Mazda,Cx-5,2018,405000.0,105000.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0386,BMW Series 3 2020,Bmw,Series 3,2020,953000.0,122200.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0387,Mitsubishi Triton 2015,Mitsubishi,Triton,2015,373000.0,166700.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0388,Suzuki Swift 2019,Suzuki,Swift,2019,164000.0,87100.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0389,Yamaha NMAX 155 2020,Yamaha,Nmax 155,2020,36000.0,103600.0,Khon Kaen,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0390,Mazda 3 2018,Mazda,3,2018,322000.0,100800.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0391,Toyota CHR 2021,Toyota,Chr,2021,413000.0,50900.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0392,Nissan Navara 2014,Nissan,Navara,2014,361000.0,99500.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0393,Honda HR-V 2018,Honda,Hr-V,2018,321000.0,90600.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0394,Honda Click 150 2019,Honda,Click 150,2019,20000.0,91400.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0395,Honda Civic 2015,Honda,Civic,2015,341000.0,208300.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0396,Honda Jazz 2018,Honda,Jazz,2018,130000.0,125400.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0397,Honda Jazz 2013,Honda,Jazz,2013,184000.0,132600.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0398,Honda HR-V 2020,Honda,Hr-V,2020,331000.0,90800.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0399,Nissan Almera 2016,Nissan,Almera,2016,206000.0,210400.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0400,Mitsubishi Pajero 2021,Mitsubishi,Pajero,2021,621000.0,61500.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0401,Kawasaki Ninja 300 2021,Kawasaki,Ninja 300,2021,72000.0,63700.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0402,Yamaha MT-15 2020,Yamaha,Mt-15,2020,41000.0,87900.0,Bangkok,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0403,Mercedes-Benz C-Class 2020,Mercedes-Benz,C-Class,2020,1019000.0,110400.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0404,Isuzu D-Max 2013,Isuzu,D-Max,2013,415000.0,140500.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0405,Nissan Note 2017,Nissan,Note,2017,113000.0,143600.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0406,Honda CBR 150R 2019,Honda,Cbr 150R,2019,31000.0,75800.0,Surat Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0407,Toyota CHR 2019,Toyota,Chr,2019,434000.0,89700.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0408,Toyota Yaris 2016,Toyota,Yaris,2016,229000.0,102200.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0409,Honda Click 150 2020,Honda,Click 150,2020,23000.0,99400.0,Nonthaburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0410,Honda City 2020,Honda,City,2020,242000.0,75900.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0411,Kawasaki Z400 2019,Kawasaki,Z400,2019,90000.0,82300.0,Udon Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0412,Honda City 2020,Honda,City,2020,225000.0,82300.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0413,Toyota Yaris 2013,Toyota,Yaris,2013,218000.0,287400.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0414,Mercedes-Benz C-Class 2021,Mercedes-Benz,C-Class,2021,812000.0,49800.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0415,Toyota Camry 2020,Toyota,Camry,2020,496000.0,89100.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0416,Isuzu D-Max 2020,Isuzu,D-Max,2020,384000.0,84500.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0417,Honda CBR 150R 2017,Honda,Cbr 150R,2017,39000.0,161000.0,Lampang,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0418,Toyota Fortuner 2021,Toyota,Fortuner,2021,598000.0,68400.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0419,Yamaha Aerox 155 2021,Yamaha,Aerox 155,2021,43000.0,58900.0,Bangkok,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0420,Mercedes-Benz C-Class 2021,Mercedes-Benz,C-Class,2021,1113000.0,68400.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0421,Yamaha MT-15 2022,Yamaha,Mt-15,2022,60000.0,44300.0,Hat Yai (Songkhla),Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0422,Toyota Corolla 2018,Toyota,Corolla,2018,302000.0,103200.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0423,Honda PCX 160 2018,Honda,Pcx 160,2018,31000.0,105900.0,Chiang Mai,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0424,Honda Jazz 2015,Honda,Jazz,2015,165000.0,193000.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0425,Yamaha Aerox 155 2018,Yamaha,Aerox 155,2018,26000.0,98100.0,Prachuap Khiri Khan,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0426,Toyota Fortuner 2019,Toyota,Fortuner,2019,490000.0,133300.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0427,Mazda CX-5 2020,Mazda,Cx-5,2020,446000.0,62500.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0428,Honda Civic 2018,Honda,Civic,2018,322000.0,114400.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0429,BMW Series 3 2018,Bmw,Series 3,2018,891000.0,72200.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0430,Toyota Hilux Revo 2019,Toyota,Hilux Revo,2019,480000.0,90700.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0431,Honda Wave 110 2012,Honda,Wave 110,2012,14000.0,129300.0,Rayong,Motorcycle,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0432,Yamaha NMAX 155 2019,Yamaha,Nmax 155,2019,40000.0,93600.0,Khon Kaen,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0433,Honda City 2020,Honda,City,2020,212000.0,63700.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0434,Mercedes-Benz C-Class 2017,Mercedes-Benz,C-Class,2017,1129000.0,184900.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0435,Toyota Corolla 2020,Toyota,Corolla,2020,284000.0,54900.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0436,Honda City 2020,Honda,City,2020,168000.0,122400.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0437,Yamaha MT-15 2023,Yamaha,Mt-15,2023,63000.0,39300.0,Nonthaburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0438,Mitsubishi Triton 2016,Mitsubishi,Triton,2016,252000.0,152700.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0439,Honda CBR 150R 2018,Honda,Cbr 150R,2018,31000.0,110600.0,Lampang,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0440,Nissan Almera 2012,Nissan,Almera,2012,212000.0,219700.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0441,BMW Series 3 2016,Bmw,Series 3,2016,880000.0,161100.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0442,Mitsubishi Triton 2020,Mitsubishi,Triton,2020,372000.0,110400.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0443,Honda CR-V 2020,Honda,Cr-V,2020,427000.0,133800.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0444,Nissan Navara 2014,Nissan,Navara,2014,340000.0,124200.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0445,Mazda CX-5 2016,Mazda,Cx-5,2016,471000.0,141200.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0446,Honda Jazz 2016,Honda,Jazz,2016,192000.0,185200.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0447,Yamaha MT-15 2023,Yamaha,Mt-15,2023,59000.0,29000.0,Nakhon Sawan,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0448,Toyota Camry 2015,Toyota,Camry,2015,596000.0,120800.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0449,Mazda CX-5 2022,Mazda,Cx-5,2022,488000.0,57400.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0450,Mercedes-Benz C-Class 2022,Mercedes-Benz,C-Class,2022,1286000.0,69300.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0451,Mazda 3 2015,Mazda,3,2015,278000.0,221800.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0452,Mazda CX-5 2021,Mazda,Cx-5,2021,495000.0,66100.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0453,Isuzu D-Max 2014,Isuzu,D-Max,2014,365000.0,117000.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0454,Honda Wave 110 2020,Honda,Wave 110,2020,15000.0,88600.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0455,Yamaha MT-15 2022,Yamaha,Mt-15,2022,43000.0,48800.0,Phuket,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0456,Suzuki Swift 2012,Suzuki,Swift,2012,162000.0,141600.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0457,Toyota Camry 2020,Toyota,Camry,2020,537000.0,94000.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0458,Honda PCX 160 2021,Honda,Pcx 160,2021,36000.0,106200.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0459,Honda CR-V 2014,Honda,Cr-V,2014,412000.0,126700.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0460,Honda Civic 2019,Honda,Civic,2019,339000.0,100800.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0461,Toyota CHR 2021,Toyota,Chr,2021,408000.0,100500.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0462,Honda CR-V 2015,Honda,Cr-V,2015,339000.0,136400.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0463,Suzuki GSX-S150 2020,Suzuki,Gsx-S150,2020,34000.0,50700.0,Prachuap Khiri Khan,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0464,Yamaha MT-15 2022,Yamaha,Mt-15,2022,43000.0,78400.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0465,Toyota Corolla 2018,Toyota,Corolla,2018,280000.0,89300.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0466,Mazda 3 2014,Mazda,3,2014,298000.0,129900.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0467,Honda PCX 160 2022,Honda,Pcx 160,2022,53000.0,50500.0,Udon Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0468,Yamaha NMAX 155 2020,Yamaha,Nmax 155,2020,38000.0,85100.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0469,Toyota CHR 2018,Toyota,Chr,2018,388000.0,131600.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0470,Honda PCX 160 2019,Honda,Pcx 160,2019,39000.0,129900.0,Samut Prakan,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0471,Yamaha R15 2021,Yamaha,R15,2021,48000.0,52900.0,Lampang,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0472,Honda Jazz 2018,Honda,Jazz,2018,196000.0,130800.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0473,Honda HR-V 2021,Honda,Hr-V,2021,364000.0,70300.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0474,Nissan Note 2015,Nissan,Note,2015,195000.0,91800.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0475,Honda Wave 110 2012,Honda,Wave 110,2012,14000.0,306400.0,Bangkok,Motorcycle,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0476,Kawasaki Z400 2020,Kawasaki,Z400,2020,58000.0,135500.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0477,Honda Civic 2019,Honda,Civic,2019,370000.0,134200.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0478,Honda PCX 160 2018,Honda,Pcx 160,2018,40000.0,68200.0,Rayong,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0479,Honda Jazz 2013,Honda,Jazz,2013,163000.0,223500.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0480,Yamaha R15 2021,Yamaha,R15,2021,39000.0,66300.0,Nakhon Sawan,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0481,Honda Civic 2017,Honda,Civic,2017,324000.0,180900.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0482,Mitsubishi Triton 2014,Mitsubishi,Triton,2014,272000.0,229000.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0483,Mercedes-Benz C-Class 2016,Mercedes-Benz,C-Class,2016,1002000.0,98200.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0484,Honda Wave 110 2018,Honda,Wave 110,2018,16000.0,110900.0,Pathum Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0485,Ford Ranger 2021,Ford,Ranger,2021,401000.0,89300.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0486,Mercedes-Benz C-Class 2016,Mercedes-Benz,C-Class,2016,1092000.0,133400.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0487,Mercedes-Benz C-Class 2019,Mercedes-Benz,C-Class,2019,1121000.0,130900.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0488,BMW Series 3 2019,Bmw,Series 3,2019,961000.0,70000.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0489,Toyota Fortuner 2021,Toyota,Fortuner,2021,678000.0,82000.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0490,Ford EcoSport 2016,Ford,Ecosport,2016,247000.0,99900.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0491,Isuzu D-Max 2020,Isuzu,D-Max,2020,359000.0,101500.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0492,Honda Click 150 2015,Honda,Click 150,2015,21000.0,146300.0,Lampang,Motorcycle,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0493,Honda Wave 110 2019,Honda,Wave 110,2019,14000.0,117100.0,Krabi,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0494,Mitsubishi Pajero 2017,Mitsubishi,Pajero,2017,570000.0,180500.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0495,Mitsubishi Triton 2016,Mitsubishi,Triton,2016,361000.0,121100.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0496,Nissan Almera 2020,Nissan,Almera,2020,222000.0,112100.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0497,Honda HR-V 2021,Honda,Hr-V,2021,381000.0,88600.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0498,Honda PCX 160 2018,Honda,Pcx 160,2018,36000.0,184400.0,Nakhon Ratchasima,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0499,Nissan Navara 2013,Nissan,Navara,2013,378000.0,209500.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0500,Isuzu D-Max 2016,Isuzu,D-Max,2016,279000.0,221800.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0501,Suzuki Swift 2018,Suzuki,Swift,2018,170000.0,114500.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0502,Mercedes-Benz C-Class 2020,Mercedes-Benz,C-Class,2020,1119000.0,70300.0,Prachuap Khiri Khan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0503,Toyota Yaris 2013,Toyota,Yaris,2013,237000.0,215100.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0504,Toyota Fortuner 2016,Toyota,Fortuner,2016,520000.0,215900.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0505,Honda Jazz 2014,Honda,Jazz,2014,193000.0,134900.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0506,Mazda CX-5 2017,Mazda,Cx-5,2017,410000.0,139800.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0507,Honda CR-V 2014,Honda,Cr-V,2014,476000.0,155400.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0508,Honda Wave 110 2014,Honda,Wave 110,2014,16000.0,130000.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0509,Toyota Camry 2015,Toyota,Camry,2015,578000.0,125200.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0510,Nissan Navara 2015,Nissan,Navara,2015,252000.0,132200.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0511,Mazda 3 2016,Mazda,3,2016,297000.0,167800.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0512,Suzuki Swift 2012,Suzuki,Swift,2012,175000.0,165400.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0513,Honda HR-V 2018,Honda,Hr-V,2018,335000.0,79000.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0514,Honda PCX 160 2018,Honda,Pcx 160,2018,38000.0,91200.0,Chiang Mai,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0515,Honda Civic 2020,Honda,Civic,2020,242000.0,74200.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0516,Honda Jazz 2016,Honda,Jazz,2016,187000.0,142200.0,Chonburi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0517,Kawasaki Z400 2021,Kawasaki,Z400,2021,97000.0,101000.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0518,Kawasaki Ninja 300 2017,Kawasaki,Ninja 300,2017,61000.0,105500.0,Krabi,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0519,Ford Ranger 2017,Ford,Ranger,2017,427000.0,160200.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0520,Honda CR-V 2021,Honda,Cr-V,2021,480000.0,80300.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0521,Toyota Camry 2019,Toyota,Camry,2019,595000.0,100000.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0522,Kawasaki Ninja 300 2022,Kawasaki,Ninja 300,2022,65000.0,53700.0,Surat Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0523,Nissan Note 2013,Nissan,Note,2013,164000.0,167600.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0524,Mazda CX-5 2019,Mazda,Cx-5,2019,329000.0,53100.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0525,Honda CR-V 2016,Honda,Cr-V,2016,437000.0,176600.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0526,Mercedes-Benz C-Class 2016,Mercedes-Benz,C-Class,2016,820000.0,150900.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0527,Yamaha R15 2020,Yamaha,R15,2020,48000.0,55400.0,Chiang Mai,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0528,Honda CR-V 2020,Honda,Cr-V,2020,442000.0,128300.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0529,Honda PCX 160 2021,Honda,Pcx 160,2021,49000.0,60100.0,Nakhon Sawan,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0530,Honda City 2014,Honda,City,2014,156000.0,137500.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0531,Nissan Navara 2015,Nissan,Navara,2015,351000.0,122000.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0532,Yamaha R15 2021,Yamaha,R15,2021,55000.0,74800.0,Saraburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0533,Toyota Fortuner 2022,Toyota,Fortuner,2022,740000.0,85700.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0534,Toyota Yaris 2013,Toyota,Yaris,2013,212000.0,138200.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0535,Honda PCX 160 2020,Honda,Pcx 160,2020,34000.0,112700.0,Nakhon Sawan,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0536,Yamaha NMAX 155 2021,Yamaha,Nmax 155,2021,41000.0,39200.0,Hat Yai (Songkhla),Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0537,Toyota Hilux Revo 2016,Toyota,Hilux Revo,2016,454000.0,254300.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0538,Kawasaki Ninja 300 2018,Kawasaki,Ninja 300,2018,56000.0,114400.0,Chiang Mai,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0539,Nissan Navara 2013,Nissan,Navara,2013,338000.0,253600.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0540,Yamaha NMAX 155 2023,Yamaha,Nmax 155,2023,53000.0,27200.0,Surat Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0541,Kawasaki Z400 2021,Kawasaki,Z400,2021,81000.0,73400.0,Hat Yai (Songkhla),Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0542,Honda Civic 2016,Honda,Civic,2016,358000.0,136300.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0543,Suzuki Swift 2018,Suzuki,Swift,2018,137000.0,121600.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0544,Yamaha Aerox 155 2018,Yamaha,Aerox 155,2018,36000.0,102100.0,Chiang Mai,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0545,Honda Click 150 2014,Honda,Click 150,2014,22000.0,172700.0,Nonthaburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0546,Honda HR-V 2020,Honda,Hr-V,2020,318000.0,91900.0,Rayong,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0547,Honda CBR 150R 2018,Honda,Cbr 150R,2018,43000.0,108800.0,Nakhon Ratchasima,Motorcycle,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0548,Mitsubishi Pajero 2014,Mitsubishi,Pajero,2014,426000.0,194100.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0549,Mazda CX-5 2017,Mazda,Cx-5,2017,471000.0,100100.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0550,Mitsubishi Pajero 2016,Mitsubishi,Pajero,2016,422000.0,129400.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0551,Honda City 2015,Honda,City,2015,223000.0,204600.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0552,Mitsubishi Pajero 2015,Mitsubishi,Pajero,2015,584000.0,106400.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,11,10+ yrs
+mock_0553,Toyota Fortuner 2021,Toyota,Fortuner,2021,604000.0,81600.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0554,Toyota Fortuner 2017,Toyota,Fortuner,2017,634000.0,122100.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0555,Honda Civic 2017,Honda,Civic,2017,367000.0,125800.0,Surat Thani,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0556,Toyota Fortuner 2019,Toyota,Fortuner,2019,587000.0,135400.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0557,Toyota Camry 2016,Toyota,Camry,2016,517000.0,206800.0,Chiang Rai,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0558,Suzuki GSX-S150 2017,Suzuki,Gsx-S150,2017,31000.0,103900.0,Nonthaburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0559,Toyota Yaris 2018,Toyota,Yaris,2018,240000.0,88600.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0560,Mitsubishi Triton 2016,Mitsubishi,Triton,2016,324000.0,99700.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0561,Honda Jazz 2019,Honda,Jazz,2019,168000.0,88300.0,Krabi,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0562,Mazda 3 2013,Mazda,3,2013,317000.0,170300.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0563,Kawasaki Z400 2022,Kawasaki,Z400,2022,118000.0,58200.0,Saraburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0564,Suzuki GSX-S150 2019,Suzuki,Gsx-S150,2019,28000.0,103700.0,Nakhon Ratchasima,Motorcycle,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0565,Mercedes-Benz C-Class 2020,Mercedes-Benz,C-Class,2020,1038000.0,110500.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0566,Toyota Camry 2019,Toyota,Camry,2019,569000.0,124900.0,Nakhon Ratchasima,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0567,Honda PCX 160 2023,Honda,Pcx 160,2023,60000.0,31400.0,Lampang,Motorcycle,Mock,2026-07-07T10:54:42.639371,3,3-5 yrs
+mock_0568,Mercedes-Benz C-Class 2018,Mercedes-Benz,C-Class,2018,1167000.0,75300.0,Pathum Thani,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0569,Mazda CX-5 2018,Mazda,Cx-5,2018,270000.0,153500.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0570,Ford EcoSport 2017,Ford,Ecosport,2017,258000.0,86700.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0571,Toyota Yaris 2018,Toyota,Yaris,2018,199000.0,63900.0,Chiang Mai,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0572,Isuzu D-Max 2016,Isuzu,D-Max,2016,384000.0,171100.0,Hat Yai (Songkhla),Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0573,Honda PCX 160 2020,Honda,Pcx 160,2020,43000.0,57600.0,Chonburi,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0574,Suzuki GSX-S150 2022,Suzuki,Gsx-S150,2022,43000.0,57000.0,Phuket,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0575,BMW Series 3 2020,Bmw,Series 3,2020,862000.0,89900.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0576,Honda PCX 160 2020,Honda,Pcx 160,2020,36000.0,63800.0,Rayong,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0577,Suzuki GSX-S150 2020,Suzuki,Gsx-S150,2020,25000.0,123200.0,Bangkok,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0578,Honda Jazz 2018,Honda,Jazz,2018,164000.0,134600.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0579,Mazda 3 2017,Mazda,3,2017,315000.0,116400.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0580,Honda Jazz 2017,Honda,Jazz,2017,169000.0,103900.0,Nonthaburi,Car,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0581,Toyota Fortuner 2016,Toyota,Fortuner,2016,630000.0,185500.0,Saraburi,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0582,Toyota Yaris 2016,Toyota,Yaris,2016,228000.0,150300.0,Nakhon Sawan,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0583,Suzuki Swift 2014,Suzuki,Swift,2014,167000.0,121700.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,12,10+ yrs
+mock_0584,Ford Ranger 2016,Ford,Ranger,2016,399000.0,167500.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0585,Mercedes-Benz C-Class 2016,Mercedes-Benz,C-Class,2016,1060000.0,89500.0,Samut Prakan,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0586,Honda Click 150 2017,Honda,Click 150,2017,15000.0,157200.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0587,Mazda 3 2013,Mazda,3,2013,303000.0,194200.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,13,10+ yrs
+mock_0588,Honda HR-V 2018,Honda,Hr-V,2018,305000.0,102300.0,Bangkok,Car,Mock,2026-07-07T10:54:42.639371,8,6-10 yrs
+mock_0589,Kawasaki Ninja 300 2017,Kawasaki,Ninja 300,2017,54000.0,173900.0,Pathum Thani,Motorcycle,Mock,2026-07-07T10:54:42.639371,9,6-10 yrs
+mock_0590,Toyota Hilux Revo 2016,Toyota,Hilux Revo,2016,428000.0,185300.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,10,6-10 yrs
+mock_0591,Mercedes-Benz C-Class 2019,Mercedes-Benz,C-Class,2019,1039000.0,80700.0,Lampang,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0592,Kawasaki Ninja 300 2022,Kawasaki,Ninja 300,2022,76000.0,67300.0,Krabi,Motorcycle,Mock,2026-07-07T10:54:42.639371,4,3-5 yrs
+mock_0593,Honda CR-V 2019,Honda,Cr-V,2019,445000.0,147800.0,Khon Kaen,Car,Mock,2026-07-07T10:54:42.639371,7,6-10 yrs
+mock_0594,Yamaha R15 2021,Yamaha,R15,2021,48000.0,50900.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0595,Nissan Navara 2020,Nissan,Navara,2020,362000.0,89100.0,Ubon Ratchathani,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0596,Toyota Hilux Revo 2020,Toyota,Hilux Revo,2020,493000.0,120200.0,Udon Thani,Car,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
+mock_0597,Nissan Note 2012,Nissan,Note,2012,183000.0,208500.0,Phuket,Car,Mock,2026-07-07T10:54:42.639371,14,10+ yrs
+mock_0598,Kawasaki Z400 2021,Kawasaki,Z400,2021,93000.0,87100.0,Chiang Rai,Motorcycle,Mock,2026-07-07T10:54:42.639371,5,3-5 yrs
+mock_0599,Yamaha MT-15 2020,Yamaha,Mt-15,2020,32000.0,82500.0,Phuket,Motorcycle,Mock,2026-07-07T10:54:42.639371,6,6-10 yrs
