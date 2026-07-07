@@ -1,0 +1,219 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Thailand Vehicle Market Analyzer | Deal Finder Dashboard</title>
+  <meta name="description" content="Interactive analytics dashboard for the Thailand vehicle market. Discover undervalued cars and motorcycles using data-driven insights from BahtSold listings." />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" href="/src/style.css" />
+</head>
+<body>
+
+  <!-- ============================================================
+       HEADER
+  ============================================================ -->
+  <header class="header">
+    <div class="header-inner">
+      <div class="header-brand">
+        <div class="brand-icon">🚗</div>
+        <div>
+          <div class="brand-title">Vehicle Market Analyzer</div>
+          <div class="brand-subtitle">Thailand &middot; BahtSold Intelligence</div>
+        </div>
+      </div>
+      <div class="header-meta">
+        <span class="badge badge--live" id="data-source-badge">● LIVE DATA</span>
+        <span class="header-time" id="last-updated">Loading...</span>
+      </div>
+    </div>
+  </header>
+
+  <!-- ============================================================
+       HERO
+  ============================================================ -->
+  <section class="hero">
+    <div class="hero-bg-glow"></div>
+    <div class="container">
+      <h1 class="hero-title">
+        Automated <span class="gradient-text">Deal Finder</span>
+      </h1>
+      <p class="hero-subtitle">
+        Real-time market analysis · Statistical undervaluation detection · Thailand vehicle listings
+      </p>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       KPI CARDS
+  ============================================================ -->
+  <section class="section">
+    <div class="container">
+      <div class="kpi-grid" id="kpi-grid">
+        <!-- injected by JS -->
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       CHARTS ROW 1 — Price vs Age Scatter + Depreciation Curves
+  ============================================================ -->
+  <section class="section">
+    <div class="container">
+      <div class="charts-row">
+
+        <!-- Scatter Chart -->
+        <div class="card chart-card" id="scatter-card">
+          <div class="card-header">
+            <div>
+              <div class="card-title">Price vs. Vehicle Age</div>
+              <div class="card-subtitle">All listings · Deals highlighted in amber</div>
+            </div>
+            <div class="legend-row">
+              <span class="legend-dot" style="background:#4F8EF7"></span><span>Car</span>
+              <span class="legend-dot" style="background:#F77A4F"></span><span>Motorcycle</span>
+              <span class="legend-dot" style="background:#FBBF24"></span><span>Deal</span>
+            </div>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="scatter-chart"></canvas>
+          </div>
+        </div>
+
+        <!-- Depreciation Line Chart -->
+        <div class="card chart-card" id="depreciation-card">
+          <div class="card-header">
+            <div>
+              <div class="card-title">Depreciation Curves</div>
+              <div class="card-subtitle">Median price by age · Top 6 makes</div>
+            </div>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="depreciation-chart"></canvas>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       CHARTS ROW 2 — Province Bar + Median Price by Age Bucket
+  ============================================================ -->
+  <section class="section">
+    <div class="container">
+      <div class="charts-row">
+
+        <!-- Province Bar Chart -->
+        <div class="card chart-card" id="province-card">
+          <div class="card-header">
+            <div>
+              <div class="card-title">Listing Density by Province</div>
+              <div class="card-subtitle">Total listings per region</div>
+            </div>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="province-chart"></canvas>
+          </div>
+        </div>
+
+        <!-- Median Price by Age Bucket -->
+        <div class="card chart-card" id="median-card">
+          <div class="card-header">
+            <div>
+              <div class="card-title">Median Price by Age Bucket</div>
+              <div class="card-subtitle">Cars vs. Motorcycles</div>
+            </div>
+          </div>
+          <div class="chart-wrapper">
+            <canvas id="median-chart"></canvas>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       TOP DEALS TABLE
+  ============================================================ -->
+  <section class="section section--deals">
+    <div class="container">
+      <div class="card">
+        <div class="card-header deals-header">
+          <div>
+            <div class="card-title">🏆 Top Deals — Undervalued Listings</div>
+            <div class="card-subtitle">Listings priced ≥15% below peer-group market median</div>
+          </div>
+          <div class="deals-controls">
+            <input class="search-input" id="deals-search" type="text" placeholder="Search deals…" />
+            <select class="filter-select" id="type-filter">
+              <option value="all">All Types</option>
+              <option value="Car">Cars</option>
+              <option value="Motorcycle">Motorcycles</option>
+            </select>
+          </div>
+        </div>
+
+        <div class="table-wrapper">
+          <table class="deals-table" id="deals-table">
+            <thead>
+              <tr>
+                <th class="sortable" data-col="rank">#</th>
+                <th class="sortable" data-col="title">Vehicle</th>
+                <th class="sortable" data-col="year">Year</th>
+                <th class="sortable" data-col="price">Price (฿)</th>
+                <th class="sortable" data-col="peer_median">Market (฿)</th>
+                <th class="sortable" data-col="discount_pct">Discount</th>
+                <th class="sortable" data-col="saving_thb">Saving (฿)</th>
+                <th class="sortable" data-col="mileage">Mileage</th>
+                <th class="sortable" data-col="province">Province</th>
+                <th class="sortable" data-col="deal_score">Score</th>
+              </tr>
+            </thead>
+            <tbody id="deals-tbody">
+              <!-- injected by JS -->
+            </tbody>
+          </table>
+        </div>
+
+        <div class="table-footer" id="deals-footer">
+          <!-- count injected by JS -->
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============================================================
+       FOOTER
+  ============================================================ -->
+  <footer class="footer">
+    <div class="container">
+      <div class="footer-inner">
+        <div>
+          <strong>Automated Local Vehicle Market Analyzer</strong> &mdash; Thailand
+        </div>
+        <div class="footer-skills">
+          <span class="skill-chip">Python</span>
+          <span class="skill-chip">BeautifulSoup</span>
+          <span class="skill-chip">pandas</span>
+          <span class="skill-chip">NumPy</span>
+          <span class="skill-chip">Statistical Analysis</span>
+          <span class="skill-chip">Vite</span>
+          <span class="skill-chip">Chart.js</span>
+        </div>
+      </div>
+    </div>
+  </footer>
+
+  <!-- Loading overlay -->
+  <div class="loading-overlay" id="loading-overlay">
+    <div class="spinner"></div>
+    <div class="loading-text">Loading market data…</div>
+  </div>
+
+  <script type="module" src="/src/main.js"></script>
+</body>
+</html>

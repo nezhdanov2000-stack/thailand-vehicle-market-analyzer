@@ -1,0 +1,18 @@
+{
+  "name": "vehicle-market-dashboard",
+  "version": "1.0.0",
+  "description": "Thailand Vehicle Market Analyzer — Interactive Dashboard",
+  "private": true,
+  "scripts": {
+    "dev": "vite --open",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.4.10"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.6",
+    "papaparse": "^5.4.1"
+  }
+}
